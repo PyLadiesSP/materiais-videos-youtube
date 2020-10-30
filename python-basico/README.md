@@ -1,9 +1,5 @@
-# Materiais de vídeo do YouTube
+# Vídeos de Python Básico
 
-## Vídeos de Python Básico
-
-### Material de apoio
-
-<p>Materiais de apoio para produção de vídeos</p>
+<p>Materiais produzidos para os vídeos de Python Básico</p>
 
 [Canal do YouTube do PyLadies São Paulo](https://www.youtube.com/PyLadiesSaoPaulo)
