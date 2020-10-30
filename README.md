@@ -4,7 +4,7 @@
 
 ### [Material de Apoio](https://github.com/PyLadiesSP/materiais-videos-youtube/tree/main/material-apoio)
 
-Materiais de apoio para produção de vídeos
+Materiais de apoio para produção de vídeos.
 
 ### [Materiais de Vídeos de Python Básico](https://github.com/PyLadiesSP/materiais-videos-youtube/tree/main/python-basico)
 
