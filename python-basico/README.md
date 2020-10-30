@@ -2,6 +2,8 @@
 
 <p>Materiais produzidos para os vídeos de Python Básico.</p>
 
+<p>Cada vídeo sobre Python Básico terá uma sub-pasta neste repositório para uma melhor navegação entre os materiais.</p>
+
 Ao adicionar materiais de um vídeo neste repositório:
 
 1. Crie uma pasta com nome do vídeo.
