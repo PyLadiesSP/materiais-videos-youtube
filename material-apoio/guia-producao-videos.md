@@ -51,7 +51,7 @@ Veja o guia geral
 - [Loom](https://www.loom.com/): gravação de video - não precisa instalar no computador, apenas um plugin no Google Chrome.
 - [Sony Vegas](https://www.vegascreativesoftware.com/): edição de vídeos; software pago.
 - [Adobe Spark](https://spark.adobe.com/): produção de animações; gratuito
-- DaVinci Resolve: edição de vídeos; Gratuito
+- DaVinci Resolve: edição de vídeos; gratuito
 - [Premiere Pro CC](https://www.adobe.com/br/products/premiere.html?gclid=CjwKCAjw8-78BRA0EiwAFUw8LPJTVpfez49ERPFjTjm-Gmen95syrJMUlg3wX5SbpMryQoFgAWhovhoCZWgQAvD_BwE&sdid=KQPPV&mv=search&ef_id=CjwKCAjw8-78BRA0EiwAFUw8LPJTVpfez49ERPFjTjm-Gmen95syrJMUlg3wX5SbpMryQoFgAWhovhoCZWgQAvD_BwE:G:s&s_kwcid=AL!3085!3!473120544393!e!!g!!premiere%20pro%20cc!188196462!10039613382): edição de vídeos; software pago.
 
 ### Trilha sonora gratuita
