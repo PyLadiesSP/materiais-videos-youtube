@@ -46,17 +46,17 @@ Veja o guia geral
 ## Sugestões
 ### Programas para Gravação
 
-- OBS: https://obsproject.com/ (Gravação da Tela do computador, tambem é possível adicionar microfone)
-- Microsoft Office PowerPoint (gravação somente de slides): https://support.microsoft.com/pt-br/office/gravar-sua-tela-no-powerpoint-0b4c3f65-534c-4cf1-9c59-402b6e9d79d0
-- Loom - https://www.loom.com/ Gravação de video - Não precisa instalar no pc, apenas um plugin no Google Chrome.
-- Sony Vegas (Edição)
-- Adobe Spark https://spark.adobe.com/ - Gratuito
-- DaVinci Resolve (Edição) - Gratuito
-- Premiere Pro CC (Juliana Servidoni tem esse programa e pode fazer as edições para vcs) 
+- [OBS](https://obsproject.com/): Gravação da Tela do computador, tambem é possível adicionar microfone.
+- [Microsoft Office PowerPoint]( https://support.microsoft.com/pt-br/office/gravar-sua-tela-no-powerpoint-0b4c3f65-534c-4cf1-9c59-402b6e9d79d0): gravação de slides e voz.
+- [Loom](https://www.loom.com/): gravação de video - não precisa instalar no computador, apenas um plugin no Google Chrome.
+- [Sony Vegas](https://www.vegascreativesoftware.com/): edição de vídeos; software pago.
+- [Adobe Spark](https://spark.adobe.com/): produção de animações; gratuito
+- DaVinci Resolve: edição de vídeos; Gratuito
+- [Premiere Pro CC](https://www.adobe.com/br/products/premiere.html?gclid=CjwKCAjw8-78BRA0EiwAFUw8LPJTVpfez49ERPFjTjm-Gmen95syrJMUlg3wX5SbpMryQoFgAWhovhoCZWgQAvD_BwE&sdid=KQPPV&mv=search&ef_id=CjwKCAjw8-78BRA0EiwAFUw8LPJTVpfez49ERPFjTjm-Gmen95syrJMUlg3wX5SbpMryQoFgAWhovhoCZWgQAvD_BwE:G:s&s_kwcid=AL!3085!3!473120544393!e!!g!!premiere%20pro%20cc!188196462!10039613382): edição de vídeos; software pago.
 
 ### Trilha sonora gratuita
 
-- Audio library YouTube https://support.google.com/youtube/answer/3376882?hl=pt-BR
+- [Audio library YouTube](https://support.google.com/youtube/answer/3376882?hl=pt-BR)
 
 ### Referências de Vídeos
 [Exemplo de vídeo: Canal do YouTube Estatística é com R](https://www.youtube.com/watch?v=CBR9sz4mYWM) 

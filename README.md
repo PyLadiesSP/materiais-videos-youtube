@@ -2,7 +2,7 @@
 
 <p>Materiais dos vídeos produzidos para o canal do Youtube do PyLadies São Paulo.</p>
 
-### [Material de apoio](https://github.com/PyLadiesSP/materiais-videos-youtube/tree/main/python-basico/material-apoio)
+### [Material de apoio](https://github.com/PyLadiesSP/materiais-videos-youtube/tree/main/material-apoio)
 
 Materiais de apoio para produção de vídeos
 
